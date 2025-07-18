@@ -19,27 +19,27 @@ This project leverages Large Language Models (LLMs) to interpret questions, anal
 
 # Tech-Stack
 
-    - Programming Language
+    1. Programming Language
 
         - Python – Core language for backend logic and data manipulation.
 
-    - AI & NLP
+    2. AI & NLP
 
         - OpenAI GPT-4 – Powers the natural language understanding and insight generation.
 
         - LangChain – Facilitates prompt engineering, query parsing, and interaction between the LLM and your data.
 
-    - Data Processing & Visualization
+    3. Data Processing & Visualization
 
         - Pandas – For reading, cleaning, and transforming CSV data.
 
         - Matplotlib, Seaborn, Plotly – Generate dynamic charts and graphs from data queries.
 
-    - User Interface
+    4. User Interface
 
         - Streamlit (or Gradio) – Provides an interactive and responsive web interface for uploading data and chatting with the bot.
 
-    - Deployment
+    5. Deployment
 
         - Replit – Quick, browser-based deployment for demos.
 
